@@ -1,0 +1,6 @@
+{
+  "editor.formatOnSave": true,
+  "terminal.integrated.env.windows": {
+    "ASPNETCORE_X": "x" 
+  }
+}
